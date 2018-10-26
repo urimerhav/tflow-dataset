@@ -1,4 +1,7 @@
 # tflow-dataset
+
+*see in depth tutorial to accompany this code in the medium post titled "How to (quickly) Build a Tensorflow Training Pipeline"
+
 A short tutorial repo to demonstrate efficient data pipeline and model training in tensorflow. To run training, install prerequistes and launch `train.py`
 
 ```
