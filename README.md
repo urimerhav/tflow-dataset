@@ -6,7 +6,7 @@ A short tutorial repo to demonstrate efficient data pipeline and model training 
 
 ```
 pip install -r requirements.txt
-cd tflow_dataset 
+cd tf_dataset 
 python train.py
 ```
 

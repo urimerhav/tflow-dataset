@@ -8,7 +8,7 @@ class PairGenerator(object):
     person2 = 'person2'
     label = 'same_person'
 
-    def __init__(self, lfw_path='resources' + os.path.sep + 'lfw'):
+    def __init__(self, lfw_path='./tf_dataset/resources' + os.path.sep + 'lfw'):
         self.all_people = self.generate_all_people_dict(lfw_path)
 
     def generate_all_people_dict(self, lfw_path):
